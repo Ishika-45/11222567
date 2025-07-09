@@ -1,4 +1,3 @@
-// src/components/URLCard.jsx
 import { Card, CardContent, Typography, Box, Link } from "@mui/material";
 import React from "react";
 
